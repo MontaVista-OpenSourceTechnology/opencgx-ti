@@ -15,5 +15,5 @@
 	<project name="MontaVista-OpenSourceTechnology/meta-montavista-cgl.git" remote="github.com" path="layers/meta-montavista-cgl" revision="dunfell"/>
 	<project name="MontaVista-OpenSourceTechnology/meta-arm.git" remote="github.com" path="layers/meta-arm" revision="master"/>
 	<project name="MontaVista-OpenSourceTechnology/meta-ti.git" remote="github.com" path="layers/meta-ti" revision="dunfell"/>
-	<project name="MontaVista-OpenSourceTechnology/opencgx-ti" remote="github.com" path="." revision="dunfell"/>
+	<project name="MontaVista-OpenSourceTechnology/opencgx-ti" remote="github.com" path="." revision="master"/>
 </manifest>
