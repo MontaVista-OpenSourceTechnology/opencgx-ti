@@ -5,8 +5,8 @@ Montavista Software, LLC. release of k2hk-evm.
 How to use:
 ==========
 ```
-git clone --recursive https://github.com/MontaVista-OpenSourceTechnology/opencgx-ti-2.6
-cd opencgx-ti-2.6
+git clone --recursive https://github.com/MontaVista-OpenSourceTechnology/opencgx-ti
+cd opencgx-ti
 source setup.sh
 ```
 Optionally, you can pass setup.sh a directory name to use instead of the
@@ -39,7 +39,7 @@ poky/oe-init-build-env script.
 directory layout:
 ================
 ```
-opencgx-ti-2.6/
+opencgx-ti/
        project - bitbake project for the k2hk-evm project build
        buildtools - build tools to provide minimal build requirement for poky builds
        layers - layers for building k2hk-evm project

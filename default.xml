@@ -13,6 +13,6 @@
 	<project name="MontaVista-OpenSourceTechnology/meta-cgl.git" remote="github.com" path="layers/meta-cgl" revision="thud"/>
 	<project name="MontaVista-OpenSourceTechnology/meta-cloud-services.git" remote="github.com" path="layers/meta-cloud-services" revision="thud"/>
 	<project name="MontaVista-OpenSourceTechnology/meta-montavista-cgl.git" remote="github.com" path="layers/meta-montavista-cgl" revision="thud"/>
-	<project name="MontaVista-OpenSourceTechnology/meta-ti.git" remote="github.com" path="layers/meta-ti" revision="master"/>
-	<project name="MontaVista-OpenSourceTechnology/opencgx-ti-2.6" remote="github.com" path="." revision="master"/>
+	<project name="MontaVista-OpenSourceTechnology/meta-ti.git" remote="github.com" path="layers/meta-ti" revision="thud"/>
+	<project name="MontaVista-OpenSourceTechnology/opencgx-ti" remote="github.com" path="." revision="thud"/>
 </manifest>

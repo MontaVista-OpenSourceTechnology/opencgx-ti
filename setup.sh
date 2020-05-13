@@ -52,7 +52,7 @@ LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-cgl.git;branch=thu
 LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-cloud-services.git;branch=thud \
 LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-cloud-services.git;branch=thud;layer=meta-openstack \
 LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-montavista-cgl.git;branch=thud \
-LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-ti.git;branch=master \
+LAYER@https://github.com/MontaVista-OpenSourceTechnology/meta-ti.git;branch=thud \
 MACHINE@k2hk-evm \
 DISTRO@mvista-cgx \
 "

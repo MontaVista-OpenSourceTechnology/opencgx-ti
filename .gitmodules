@@ -45,3 +45,4 @@
 [submodule "layers/meta-ti"]
 	path = layers/meta-ti
 	url = https://github.com/MontaVista-OpenSourceTechnology/meta-ti.git
+	branch = thud
